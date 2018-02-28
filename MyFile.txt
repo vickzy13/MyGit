@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 Cat
-=======
-
 Bat
->>>>>>> MyNewDesktopBranch
+MyNewDesktopBranch
+
+Add this line to master
