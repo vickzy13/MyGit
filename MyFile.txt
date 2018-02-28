@@ -1,6 +1,3 @@
 HEAD
 Cat
 Bat
-MyNewDesktopBranch
-
-Add this line to master
