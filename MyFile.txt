@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+HEAD
 Cat
-=======
-
 Bat
->>>>>>> MyNewDesktopBranch
+MyNewDesktopBranch
+	
